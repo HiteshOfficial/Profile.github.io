@@ -1,0 +1,49 @@
+body{
+    background: -webkit-linear-gradient(left, blue, #00c6ff);
+}
+
+.a1{
+    margin: 10%;
+    padding: 10%;
+}
+
+table{
+    background-color: aliceblue;
+}
+
+#Qualifications
+	            {
+	                background-attachment:fixed;
+	                background-repeat:no-repeat;
+	                background-size:cover;
+	                font-size:20px;
+	                padding-bottom:40px;
+	                color:#000000;
+	            }
+	            #QualificationsRow
+	            {
+	                 margin-top:100px;
+	                 margin-bottom:100px;
+	            }
+	            #QualificationsRow div.col-lg-offset-1
+	            {
+	                padding:10px;
+	                background-color:rgba(255,255,255,0.8);
+	                border-radius:8px;
+	                box-shadow:0px 0px 18px blue;
+	                
+	            }
+	            #Qualifications table
+	            {
+	                width:100%;
+	                margin-top:50px;
+	            }
+	            #Qualifications table tr td
+	            {
+	                padding-bottom:20px;
+	            }
+	            #Qualifications table tr td:first-child
+	            {
+	                width:30%;
+	                padding-left:10px;
+	            }
